@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # UCCOUNTING 
-## GST Ready Accounting Tool
+### GST Ready Accounting Tool
 {: .fs-9 }
 
 Web based accounting software for everyone, with Invoicing, Payments, GST and Reports.
