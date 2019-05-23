@@ -6,7 +6,7 @@ description: "DAFSL, Dataminers'​ Accounting and Financial Solutions is a grou
 permalink: /
 ---
 
-# GST Ready Accounting Tool
+# UCCOUNTING - GST Ready Accounting Tool
 {: .fs-9 }
 
 Web based accounting software for everyone, with Invoicing, Payments, GST and Reports.
@@ -68,11 +68,11 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ## About the project
 
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
+"DAFSL, Dataminers'​ Accounting and Financial Solutions is a group of intellects who believe that businesses should focus on their core goals and grow beyond their limits, and let us take care of the rest of day-to-day financial technicalities and Human Resource Management tasks." &copy; 2016-2019 by [Dushyant Kashyap](http://dushyant.info).
 
 ### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+Just the Docs is distributed by an [MIT license](https://github.com/connectdtk/just-the-docs/tree/master/LICENSE.txt).
 
 ### Contributing
 
