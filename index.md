@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "DAFSL, Dataminers'​ Accounting and Financial Solutions is a group of intellects who believe that businesses should focus on their core goals and grow beyond their limits, and let us take care of the rest of day-to-day financial technicalities and Human Resource Management tasks."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# GST Ready Accounting Tool
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Web based accounting software for everyone, with Invoicing, Payments, GST and Reports.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
