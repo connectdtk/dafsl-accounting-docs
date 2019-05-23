@@ -16,7 +16,7 @@
 
 title: DAFSL Uccounts
 description: Accounting for you.
-baseurl: "/just-the-docs/" # the subpath of your site, e.g. /blog
+baseurl: "/dafsl-accounting-docs/" # the subpath of your site, e.g. /blog
 url: "https://dafsl.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
