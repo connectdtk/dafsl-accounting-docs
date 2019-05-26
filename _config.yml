@@ -13,7 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: DAFSL Uccounts
 description: Accounting for you.
 baseurl: "/dafsl-accounting-docs/" # the subpath of your site, e.g. /blog
@@ -28,7 +27,7 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
   "Goto Uccounting":
-    - "//uccounting.dafsl.com/"
+    - "//uccounting.dafsl.com"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
